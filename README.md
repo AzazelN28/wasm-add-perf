@@ -12,3 +12,5 @@ Los resultados se guardan en `time.csv` y aquí hay una gráfica comparando 100
 ejecuciones de los diferentes métodos:
 
 ![Sumas](images/add.svg)
+
+Made with :heart: by [AzazelN28](https://github.com/azazeln28)
