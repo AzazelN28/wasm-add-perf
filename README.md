@@ -14,6 +14,9 @@ Los resultados se guardan en `time.csv` y aquí hay una gráfica comparando 100
 ejecuciones de los diferentes métodos:
 
 ![Sumas](images/add.svg)
+![Restas](images/sub.svg)
+![Multiplicaciones](images/mul.svg)
+![Divisiones](images/div.svg)
 
 ## English
 
@@ -28,6 +31,9 @@ To obtain the results it is only necessary to run `run.sh`.
 The results are saved in `time.csv` and here is a graph comparing 100 
 executions of the different methods:
 
-![Sumas](images/add.svg)
+![Additions](images/add.svg)
+![Subtractions](images/sub.svg)
+![Multiplications](images/mul.svg)
+![Divisions](images/div.svg)
 
 Made with :heart: by [AzazelN28](https://github.com/azazeln28)
